@@ -1,0 +1,8 @@
+# No external dependencies required.
+# This project uses only Python's standard library:
+#   - tkinter  (GUI)
+#   - sqlite3  (database)
+#
+# Make sure Tkinter is installed with your Python distribution.
+# On Linux, if missing, install it with:
+#   sudo apt install python3-tk
